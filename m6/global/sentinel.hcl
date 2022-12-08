@@ -6,6 +6,3 @@ policy "enforce-mandatory-tags" {
     enforcement_level = "hard-mandatory"
 }
 
-policy "restrict-ingress-sg-rule-ssh" {
-  enforcement_level = "hard-mandatory"
-}
